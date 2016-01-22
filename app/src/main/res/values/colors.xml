@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparency_color">#ccffffff</color>
+    <color name="primaryColor">#FAFAFA</color>
+
+    <color name="textPrimaryColor">#828282</color>
+    <color name="textHintColor">#FAFAFA</color>
+
+    <color name="rippleEffectMaskColor">#FAFAFA</color>
+    <color name="rippleEffectWaveColor">#bbbbbb</color>
+
+    <color name="blue">#0099CC</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#669900</color>
+    <color name="orange">#FF8800</color>
+
+    <color name="price_red">#F44336</color>
+    <color name="status_bar_red">#D32F2F</color>
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">OpenWeatherApp</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_remove">Удалить</string>
+    <string name="action_search">Поиск</string>
+    <string name="search_hint">Поиск города</string>
+    <string name="search_coordinates">Поиск города...</string>
+    <string name="please_waiting">Пожалуйста, подождите...</string>
+    <string name="search_is_canceled">Поиск остановлен. Вы можете найти город вручную.</string>
+    <string name="city_is_found">Город определён. </string>
+    <string name="city_is_not_found">Город не определён. Определены только координаты</string>
+    <string name="location_is_not_found">Не удалось определить местороложения. Установите город вручную</string>
+    <string name="from">из</string>
+    <string name="clouds">Облачность, %: </string>
+    <string name="wind_speed">Скорость ветра, м/с: </string>
+    <string name="last_update">Последнее обновление:</string>
+    <string name="update_time">Обновление:</string>
+    <string name="actions">Действия</string>
+    <string-array name="cities_actions">
+        <item>Удалить</item>
+    </string-array>
+    <string name="action_history">Погода.</string>
+    <string name="min_temp">Min: </string>
+    <string name="max_temp">Max: </string>
+    <string name="warning_change_city">Пожалуйста, выберите город из предложенного списка, в противном случае информация о погоде города не будет загружена.</string>
+    <string name="change_city">Изменить город</string>
+    <string name="change_time">Изменить время</string>
+    <string name="default_city">Город по умолчанию: </string>
+    <string name="default_time_update">Время автообновления:</string>
+    <string name="default_temp_update">Единицы измерения температуры:</string>
+    <string name="change_temp">Изменить единицы</string>
+    <string-array name="time_update_array">
+        <item>Вручную</item>
+        <item>Раз в час</item>
+        <item>Ежедневно</item>
+        <item>Каждые 15 минут</item>
+    </string-array>
+    <string-array name="temp_array">
+        <item>Цельсии</item>
+        <item>Кельвины</item>
+        <item>Фаренгейты</item>
+    </string-array>
+    <string name="ok">OK</string>
+    <string name="cancel">Отменить</string>
+    <string name="temp_var">°</string>
+</resources>
